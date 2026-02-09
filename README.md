@@ -1,7 +1,9 @@
 # Gemma-AI-Assistant
-<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/5e12a0d8-74c4-40ca-9d0e-4918ae3ef872" />
-<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/a0c24a67-3ff1-4782-bbbc-31d9f5378789" />
-<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/d4970a2b-b27b-45ea-881b-066df0723ee9" />
+
+https://github.com/user-attachments/assets/3c29fb96-b0eb-4a9c-980a-7313d1c0e48f
+
+![Uploading Screenshot (85).png…]()
+
 
 # Code Citations
 
