@@ -6,7 +6,6 @@
 # Code Citations
 
 ## License: MIT
-<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/5e12a0d8-74c4-40ca-9d0e-4918ae3ef872" />
 
 https://github.com/jjuarez/mydotfiles/blob/24916d0b988e37d22c86a7394812fd945f9c7aa0/roles/dotfiles/files/skeletons/README.md
 
